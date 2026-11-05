@@ -1,0 +1,22 @@
+[
+  {
+    "Course":"Circuits II",
+    "Credits":3,
+    "Score":92
+  },
+  {
+    "Course":"Signals and Systems",
+    "Credits":3,
+    "Score":88
+  },
+  {
+    "Course":"Electronics I",
+    "Credits":4,
+    "Score":95
+  },
+  {
+    "Course":"Data Science",
+    "Credits":3,
+    "Score":90
+  }
+]

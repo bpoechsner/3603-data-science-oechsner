@@ -1,0 +1,11 @@
+{
+  "name": "Programming for Data Science",
+  "credits": 3,
+  "topics": [
+    "Magic commands",
+    "Files and paths",
+    "Pandas I/O",
+    "Plotting",
+    "Timing"
+  ]
+}

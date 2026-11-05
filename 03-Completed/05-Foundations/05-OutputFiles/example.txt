@@ -1,0 +1,3 @@
+Hello, Jupyter!
+This is a text file. 🐍
+This line was appended.
