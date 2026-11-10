@@ -8,14 +8,14 @@ New to the course? Complete the setup guide in [`01-StartHere/`](../01-StartHere
 
 ## 🗺️ Modules
 
-| # | Module | Notebooks | What you'll learn |
-|---|--------|:---------:|-------------------|
-| 01 | [Scalar Types and Control Flow](01-Scalar_Types_and_Control_Flow/README.md) | 2 | `int`, `float`, `str`, `bool`, arithmetic, type casting, comparisons, and `if`/`elif`/`else` with logical operators |
-| 02 | [Strings and Text](02-Strings_and_Text/README.md) | 3 | Strings as a sequence (indexing, slicing, immutability), string methods, and f-strings with format specs |
-| 03 | [Python Containers](03-Python_Containers/README.md) | 3 | Lists (including 2D lists), tuples, and dictionaries, lists of dictionaries as table rows, and JSON/GeoJSON |
-| 03b | [Containers → Functions](03b-Containers_to_Functions/README.md) | 6 | A slower second pass at containers through problems, the Accumulate/Count/Filter patterns, why functions exist, `print()` vs. `return`, and pipelines |
-| 04 | [More Functions & Loops](04-More_Functions_and_Loops/README.md) | 3 | Default and keyword arguments, returning tuples, scope, `while`/`break`/`continue`, and reading files with `with` and `try`/`except` |
-| 05 | [Foundations](05-Foundations/README.md) | 8 | The Jupyter/IPython toolkit: magics, notebook workflow, getting help, Markdown, files and paths, Pandas data I/O, NumPy and plotting, and timing |
+| #   | Module                                                                      | Notebooks | What you'll learn                                                                                                                                     |
+| --- | --------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Scalar Types and Control Flow](01-Scalar_Types_and_Control_Flow/README.md) |     2     | `int`, `float`, `str`, `bool`, arithmetic, type casting, comparisons, and `if`/`elif`/`else` with logical operators                                   |
+| 02  | [Strings and Text](02-Strings_and_Text/README.md)                           |     3     | Strings as a sequence (indexing, slicing, immutability), string methods, and f-strings with format specs                                              |
+| 03  | [Python Containers](03-Python_Containers/README.md)                         |     3     | Lists (including 2D lists), tuples, and dictionaries, lists of dictionaries as table rows, and JSON/GeoJSON                                           |
+| 03b | [Containers → Functions](03b-Containers_to_Functions/README.md)             |     6     | A slower second pass at containers through problems, the Accumulate/Count/Filter patterns, why functions exist, `print()` vs. `return`, and pipelines |
+| 04  | [More Functions & Loops](04-More_Functions_and_Loops/README.md)             |     3     | Default and keyword arguments, returning tuples, scope, `while`/`break`/`continue`, and reading files with `with` and `try`/`except`                  |
+| 05  | [Foundations](05-Foundations/README.md)                                     |     8     | The Jupyter/IPython toolkit: magics, notebook workflow, getting help, Markdown, files and paths, Pandas data I/O, NumPy and plotting, and timing      |
 
 ### How the modules fit together
 
@@ -37,13 +37,13 @@ Modules 01–04 teach the Python **language**. Module 05 switches to the **tools
 
 Every module folder has the same layout:
 
-| File | Purpose |
-|------|---------|
-| `README.md` | The module's notebooks, learning goals, and links to the modules before and after it |
-| `01-…ipynb`, `02-…ipynb`, … | The notebooks, numbered in the order to complete them |
-| `glossary.md` | Key terms for quick reference |
-| `quiz.md` | A conceptual self-check with an answer key at the bottom |
-| `worksheet.md` | Practice problems and "Explain It" reflection prompts |
+| File                        | Purpose                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------ |
+| `README.md`                 | The module's notebooks, learning goals, and links to the modules before and after it |
+| `01-…ipynb`, `02-…ipynb`, … | The notebooks, numbered in the order to complete them                                |
+| `glossary.md`               | Key terms for quick reference                                                        |
+| `quiz.md`                   | A conceptual self-check with an answer key at the bottom                             |
+| `worksheet.md`              | Practice problems and "Explain It" reflection prompts                                |
 
 Some modules include extras. 01 has a D2L question bank (`.csv`), and 05 has a hands-on `Foundations_Quiz.ipynb`.
 

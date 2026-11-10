@@ -90,7 +90,7 @@ By the end of the semester, students will load real datasets, clean and reshape 
 
 The course is **project-focused** and **notebook-driven**. Each module is a set of Jupyter notebooks that explain a concept, show it working, and then ask the student to try it.
 
-Modules 01–04 teach the Python **language**. Module 05 switches to the **tools**. Modules 06 and 07 apply both to real data.
+Modules 01–04 teach the Python **language**. Module 05 switches to the **tools**. Modules 06, 07, and 08 apply both to real data.
 
 ```text
 01 → 02 → 03          Core Python: values, text, and containers
@@ -103,7 +103,9 @@ Modules 01–04 teach the Python **language**. Module 05 switches to the **tools
             ↓
            06          Working with data: Pandas Series/DataFrames, cleaning, grouping
             ↓
-           07          Describing and visualizing data: statistics, Matplotlib, Seaborn
+           07          Describing data: data types, summary statistics, outliers, groups, correlation
+            ↓
+           08          Visualizing data: object-oriented Matplotlib, pandas plotting, Seaborn, chart design
 ```
 
 The objective is not to memorize syntax. The objective is to be able to take a question and a dataset and produce a clear, reproducible answer.
@@ -123,8 +125,8 @@ By the end of the course, students should be able to:
 7. Handle errors with `try`/`except` and read files safely with `with`.
 8. Work productively in Jupyter: magics, Markdown, getting help, and timing code.
 9. Load, inspect, index, clean, sort, filter, and group tabular data with Pandas.
-10. Compute and interpret summary statistics.
-11. Create and customize visualizations with Matplotlib and Seaborn.
+10. Compute and interpret summary statistics, compare groups, and measure relationships between variables.
+11. Create and customize visualizations with Matplotlib and Seaborn, and choose charts that communicate findings honestly.
 12. Produce reproducible notebooks that run cleanly from top to bottom.
 13. Manage and submit work through a professional GitHub repository.
 
@@ -145,7 +147,8 @@ Each module folder contains numbered notebooks, a `README.md`, `glossary.md`, `q
 | 04  | [More Functions and Loops](02-Assignments/04-More_Functions_and_Loops/)              | Default and keyword arguments, returning tuples, scope, `while`/`break`/`continue`, `with`, `try`/`except`   |
 | 05  | [Foundations](02-Assignments/05-Foundations/)                                        | Magics, notebook workflow, getting help, Markdown, files and paths, data I/O, plotting basics, timing        |
 | 06  | [Working with Data](02-Assignments/06-Working_with_Data_Adv/)                        | Pandas `Series`/`DataFrame`, loading and exploring, indexing, cleaning, column operations, sorting, grouping |
-| 07  | Describing and Visualizing Data _(coming soon)_                                      | Types of data, summary statistics, Matplotlib basics, Seaborn basics, visualization mini-lab                 |
+| 07  | Describing Data _(coming soon)_                                                      | Data types vs. dtypes, center and spread, skew and outliers, comparing groups, correlation, penguins lab     |
+| 08  | Visualizing Data _(coming soon)_                                                     | Object-oriented Matplotlib, pandas plotting, Seaborn distributions and relationships, chart design, lab      |
 
 ## Major Course Themes
 
@@ -178,13 +181,20 @@ Each module folder contains numbered notebooks, a `README.md`, `glossary.md`, `q
 - sorting and filtering; and
 - grouping and combining.
 
-### Describing and Visualizing Data
+### Describing Data
 
-- types of data;
-- summary statistics;
+- types of data and measurement scales;
+- summary statistics: center, spread, and shape;
+- outliers;
+- comparing groups; and
+- correlation, and why it isn't causation.
+
+### Visualizing Data
+
 - Matplotlib figures and customization;
+- plotting with pandas;
 - Seaborn statistical plots; and
-- telling a clear story with a chart.
+- telling a clear, honest story with a chart.
 
 ## Supporting Topics
 
@@ -230,7 +240,7 @@ Students will maintain a GitHub repository containing their work from the course
 
 | Category           |   Weight | Notes                                  |
 | ------------------ | -------: | :------------------------------------- |
-| Module Assignments |      40% | 7 assignments, equally weighted        |
+| Module Assignments |      40% | 9 assignments, equally weighted        |
 | Module Quizzes     |      15% | One per module, due with the module    |
 | Final Project      |      15% | Due Monday, November 30                |
 | Final Examination  |      15% | University final-exam schedule         |
@@ -275,7 +285,8 @@ All assignments are due by **11:59 p.m.** on the date listed. Submit by copying 
 | Wednesday, October 28        | 04 — More Functions and Loops                | Quiz 04                 |
 | Wednesday, November 4        | 05 — Foundations                             | Quiz 05                 |
 | Wednesday, November 11       | 06 — Working with Data                       | Quiz 06                 |
-| Wednesday, November 18       | 07 — Describing and Visualizing Data         | Quiz 07                 |
+| Wednesday, November 18       | 07 — Describing Data                         | Quiz 07                 |
+| Tuesday, November 24         | 08 — Visualizing Data                        | Quiz 08                 |
 | _November 25 – 29_           | _Thanksgiving Holiday — nothing due_         |                         |
 | **Monday, November 30**      | **Final Project** + GitHub Portfolio         |                         |
 | TBD                          | Final Examination                            |                         |
