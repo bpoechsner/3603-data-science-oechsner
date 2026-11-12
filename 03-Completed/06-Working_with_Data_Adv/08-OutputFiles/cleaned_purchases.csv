@@ -1,0 +1,244 @@
+purchase_id,buyer_id,product_name,department,state,purchase_date,unit_price,quantity,purchase_month,revenue,multi_item,revenue_category,discount_rate,discounted_revenue
+50140,28,Throw Blanket,Home,MN,2026-03-09,29.99,3,2026-03,89.97,True,Medium,0.0,89.97
+50187,58,Backpack,Travel,IL,2026-06-17,39.99,2,2026-06,79.98,True,Medium,0.0,79.98
+50144,55,Notebook, Office,WI,2026-06-17,4.99,3,2026-06,14.97,True,Small,0.0,14.97
+50174,49,Backpack,Travel,IL,2026-06-14,39.99,2,2026-06,79.98,True,Medium,0.0,79.98
+50012,60,Notebook, Office,il,2026-02-28,4.99,1,2026-02,4.99,False,Small,0.0,4.99
+50158,30,Stapler,Office,IL,2026-01-30,12.99,1,2026-01,12.99,False,Small,0.1,11.69
+50095,46,Office Chair, Office,IL,2026-05-21,149.99,2,2026-05,299.98,True,Large,0.15,254.98
+50147,21,Wall Clock,Home,Illinois,2026-05-15,18.75,1,2026-05,18.75,False,Small,0.0,18.75
+50029,14,Backpack,Travel,IL,2026-02-26,39.99,5,2026-02,199.95000000000002,True,Large,0.15,169.96
+50019,43,Throw Blanket,Home,IL,2026-06-07,29.99,1,2026-06,29.99,False,Medium,0.0,29.99
+50152,19,Pen Set,Office,IL ,2026-04-23,7.49,1,2026-04,7.49,False,Small,0.1,6.74
+50094,20,Wall Clock,Home,IL,2026-06-11,18.75,1,2026-06,18.75,False,Small,0.0,18.75
+50071,10,Throw Blanket,home,Minnesota,2026-04-05,29.99,1,2026-04,29.99,False,Medium,0.0,29.99
+50186,32,Water Bottle,Travel,WI,2026-01-16,12.5,3,2026-01,37.5,True,Medium,0.0,37.5
+50229,43,Standing Desk,Office,WI,2026-06-29,1249.99,2,2026-06,2499.98,True,Large,0.15,2124.98
+50131,52,Throw Blanket,Home,IN,2026-01-14,29.99,5,2026-01,149.95,True,Large,0.15,127.46
+50235,1,Backpack,Travel,IN ,2026-03-17,39.99,1,2026-03,39.99,False,Medium,0.0,39.99
+50133,3,Pen Set,Office,IL,2026-01-10,7.49,4,2026-01,29.96,True,Medium,0.1,26.96
+50030,55,Backpack,Travel,wi,2026-06-06,39.99,4,2026-06,159.96,True,Large,0.15,135.97
+50037,25,Notebook,Office,IN,2026-06-15,4.99,1,2026-06,4.99,False,Small,0.1,4.49
+50056,13,Stapler,Office,IN,2026-04-01,12.99,2,2026-04,25.98,True,Medium,0.1,23.38
+50154,31,Pen Set,Office,IL,2026-03-31,7.49,1,2026-03,7.49,False,Small,0.1,6.74
+50111,18,Throw Blanket,Home,IL,2026-04-15,29.99,2,2026-04,59.98,True,Medium,0.0,59.98
+50136,16,Desk Lamp,home,Unknown,2026-01-13,24.99,2,2026-01,49.98,True,Medium,0.0,49.98
+50026,55,Monitor,ELECTRONICS,WI,2026-01-09,189.99,2,2026-01,379.98,True,Large,0.15,322.98
+50008,45,Notebook,Office,Wisconsin,2026-06-20,4.99,1,2026-06,4.99,False,Small,0.1,4.49
+50107,42,USB Hub,Electronics,IN,2026-04-29,21.5,5,2026-04,107.5,True,Large,0.15,91.38
+50188,21,Desk Lamp,Home,IL,2026-03-21,24.99,4,2026-03,99.96,True,Medium,0.0,99.96
+50016,42,Luggage Tag ,Travel,il,2026-04-20,6.25,4,2026-04,25.0,True,Medium,0.0,25.0
+50172,50,Luggage Tag,Travel,IA,2026-05-02,6.25,2,2026-05,12.5,True,Small,0.0,12.5
+50102,50,Desk Lamp,Home,WI,2026-05-18,24.99,1,2026-05,24.99,False,Medium,0.0,24.99
+50248,59,Notebook, Office,WI,2026-05-13,4.99,1,2026-05,4.99,False,Small,0.0,4.99
+50091,25,Water Bottle, Travel,MN,2026-03-17,12.5,4,2026-03,50.0,True,Medium,0.0,50.0
+50259,33,Pen Set,Office,MN,2026-04-21,7.49,2,2026-04,14.98,True,Small,0.1,13.48
+50233,59,Stapler, Office,il,2026-04-02,12.99,1,2026-04,12.99,False,Small,0.0,12.99
+50001,23,Pen Set,Office,IL,2026-06-16,7.49,4,2026-06,29.96,True,Medium,0.1,26.96
+50150,19,Pen Set,Office,il,2026-05-24,7.49,1,2026-05,7.49,False,Small,0.1,6.74
+50014,52,Throw Blanket,Home,IL,2026-03-11,29.99,5,2026-03,149.95,True,Large,0.15,127.46
+50157,24,Notebook,Office,WI,2026-04-05,4.99,1,2026-04,4.99,False,Small,0.1,4.49
+50149,5,Throw Blanket ,HOME,WI,2026-05-14,29.99,5,2026-05,149.95,True,Large,0.15,127.46
+50132,23,Desk Lamp,Home,WI,2026-02-28,24.99,1,2026-02,24.99,False,Medium,0.0,24.99
+50162,8,Headphones,Electronics,Wisconsin,2026-04-21,79.99,2,2026-04,159.98,True,Large,0.15,135.98
+50163,27,Headphones,Electronics,WI,2026-01-17,79.99,4,2026-01,319.96,True,Large,0.15,271.97
+50020,27,Pen Set,office,WI,2026-01-02,7.49,1,2026-01,7.49,False,Small,0.0,7.49
+50049,52,Pen Set,Office,IA,2026-01-15,7.49,1,2026-01,7.49,False,Small,0.1,6.74
+50249,39,Stapler,Office,MN,2026-04-15,12.99,4,2026-04,51.96,True,Medium,0.1,46.76
+50021,15,Luggage Tag,Travel,NOT PROVIDED,2026-03-07,6.25,1,2026-03,6.25,False,Small,0.0,6.25
+50041,27,Luggage Tag,Travel,IL,2026-03-19,6.25,4,2026-03,25.0,True,Medium,0.0,25.0
+50166,56,Luggage Tag,Travel,Wisconsin,2026-02-06,6.25,2,2026-02,12.5,True,Small,0.0,12.5
+50189,60,USB Hub,ELECTRONICS,WI,2026-05-14,21.5,1,2026-05,21.5,False,Medium,0.0,21.5
+50007,20,USB Hub,Electronics,IL,2026-04-15,21.5,3,2026-04,64.5,True,Medium,0.0,64.5
+50093,40,Notebook,office,IL,2026-06-27,4.99,4,2026-06,19.96,True,Small,0.0,19.96
+50221,12,Luggage Tag,Travel,MN,2026-04-30,6.25,2,2026-04,12.5,True,Small,0.0,12.5
+50073,38,Notebook,Office,WI,2026-02-07,4.99,4,2026-02,19.96,True,Small,0.1,17.96
+50081,10,Pen Set,office,Indiana,2026-03-29,-1.0,1,2026-03,-1.0,False,,0.0,-1.0
+50224,32,Pen Set,office,IN,2026-02-26,7.49,1,2026-02,7.49,False,Small,0.0,7.49
+50253,58,notebook,Travel,Indiana,2026-02-17,39.99,1,2026-02,39.99,False,Medium,0.0,39.99
+50017,1,Water Bottle,TRAVEL,il,2026-02-11,12.5,2,2026-02,25.0,True,Medium,0.0,25.0
+50108,41,NOTEBOOK,Home,NOT PROVIDED,2026-02-21,24.99,3,2026-02,74.97,True,Medium,0.0,74.97
+50092,34,Backpack,Travel,WI,2026-05-29,39.99,1,2026-05,39.99,False,Medium,0.0,39.99
+50182,35,Desk Lamp,Home,WI,2026-02-14,24.99,2,2026-02,49.98,True,Medium,0.0,49.98
+50146,28,Pen Set,Office,IL,2026-02-06,7.49,4,2026-02,29.96,True,Medium,0.1,26.96
+50134,38,Notebook,Office,IL,2026-04-27,4.99,1,2026-04,4.99,False,Small,0.1,4.49
+50214,31,Office Chair,Office,IN,2026-05-13,149.99,1,2026-05,149.99,False,Large,0.15,127.49
+50010,58,Backpack,Travel,IA,2026-06-20,39.99,5,2026-06,199.95000000000002,True,Large,0.15,169.96
+50155,14,USB Hub,Electronics,Illinois,2026-01-25,21.5,5,2026-01,107.5,True,Large,0.15,91.38
+50256,49,Pen Set,Office,IL,2026-02-07,7.49,1,2026-02,7.49,False,Small,0.1,6.74
+50208,43,Luggage Tag,Travel,wi,2026-03-26,6.25,1,2026-03,6.25,False,Small,0.0,6.25
+50085,59,Notebook,Office,WI,2026-05-18,4.99,2,2026-05,9.98,True,Small,0.1,8.98
+50099,11,Wall Clock,Home,IL ,2026-02-14,18.75,1,2026-02,18.75,False,Small,0.0,18.75
+50127,39,Backpack,Travel,IA,2026-04-15,39.99,2,2026-04,79.98,True,Medium,0.0,79.98
+50046,35,Notebook,Office,MN,2026-04-06,4.99,1,2026-04,4.99,False,Small,0.1,4.49
+50120,4,Water Bottle, Travel,IN ,2026-05-23,12.5,1,2026-05,12.5,False,Small,0.0,12.5
+50122,54,Backpack,Travel,Illinois,2026-05-26,39.99,3,2026-05,119.97,True,Large,0.15,101.97
+50096,19,Notebook,office,MN,2026-06-15,4.99,5,2026-06,24.950000000000003,True,Medium,0.0,24.95
+50125,27,Office Chair,Office,WI,2026-02-07,149.99,1,2026-02,149.99,False,Large,0.15,127.49
+50035,48,Pen Set,Office,NOT PROVIDED,2026-02-08,7.49,1,2026-02,7.49,False,Small,0.1,6.74
+50106,21,Luggage Tag,Unknown,IA,2026-05-28,6.25,2,2026-05,12.5,True,Small,0.0,12.5
+50173,29,Backpack,Travel,IL,2026-02-03,39.99,2,2026-02,79.98,True,Medium,0.0,79.98
+50053,43,Pen Set , Office,IL,2026-03-07,7.49,2,2026-03,14.98,True,Small,0.0,14.98
+50227,43,Stapler,Office,MN,2026-05-06,12.99,2,2026-05,25.98,True,Medium,0.1,23.38
+50128,38,Monitor ,Electronics,WI,2026-06-04,189.99,4,2026-06,759.96,True,Large,0.15,645.97
+50245,29,Stapler,Office,IL ,2026-04-29,12.99,3,2026-04,38.97,True,Medium,0.1,35.07
+50246,24,Office Chair,Unknown,WI,2026-02-03,149.99,4,2026-02,599.96,True,Large,0.15,509.97
+50210,30,Wall Clock,Home,MN,2026-02-21,18.75,2,2026-02,37.5,True,Medium,0.0,37.5
+50164,38,Backpack, Travel,IA,2026-02-24,39.99,2,2026-02,79.98,True,Medium,0.0,79.98
+50143,60,Pen Set,office,IL,2026-04-10,7.49,2,2026-04,14.98,True,Small,0.0,14.98
+50118,55,Headphones,Electronics,MN,2026-02-26,79.99,4,2026-02,319.96,True,Large,0.15,271.97
+50045,16,Throw Blanket,Home,WI,2026-02-07,29.99,2,2026-02,59.98,True,Medium,0.0,59.98
+50024,23,Notebook,Office,MN,2026-01-16,4.99,1,2026-01,4.99,False,Small,0.1,4.49
+50193,26,Pen Set,Office,NOT PROVIDED,2026-01-30,7.49,2,2026-01,14.98,True,Small,0.1,13.48
+50031,55,Water Bottle,Travel,Illinois,2026-01-18,12.5,2,2026-01,25.0,True,Medium,0.0,25.0
+50097,8,Notebook,office,IA,2026-02-21,4.99,1,2026-02,4.99,False,Small,0.0,4.99
+50258,22,Water Bottle,TRAVEL,IL,2026-04-12,12.5,3,2026-04,37.5,True,Medium,0.0,37.5
+50190,7,Luggage Tag,travel,WI,2026-04-14,6.25,2,2026-04,12.5,True,Small,0.0,12.5
+50009,23,Water Bottle,Travel,Minnesota,2026-03-21,12.5,1,2026-03,12.5,False,Small,0.0,12.5
+50083,57,Headphones,Electronics,Wisconsin,2026-01-03,79.99,4,2026-01,319.96,True,Large,0.15,271.97
+50063,13,Water Bottle,Travel,IL,2026-01-18,12.5,3,2026-01,37.5,True,Medium,0.0,37.5
+50247,53,Notebook,OFFICE,IL,2026-04-12,4.99,1,2026-04,4.99,False,Small,0.0,4.99
+50191,9,Pen Set,Office,IL,2026-05-31,7.49,2,2026-05,14.98,True,Small,0.1,13.48
+50148,48,Water Bottle,Travel,IL,2026-03-13,12.5,1,2026-03,12.5,False,Small,0.0,12.5
+50004,50,Office Chair,Office,MN,2026-06-14,149.99,2,2026-06,299.98,True,Large,0.15,254.98
+50251,57,Desk Lamp,Home,IN,2026-04-17,24.99,1,2026-04,24.99,False,Medium,0.0,24.99
+50225,34,Notebook,Office,MN ,2026-02-01,4.99,2,2026-02,9.98,True,Small,0.1,8.98
+50006,60,USB Hub,Electronics,IL,2026-04-15,21.5,2,2026-04,43.0,True,Medium,0.0,43.0
+50236,20,USB Hub,Electronics,MN,2026-03-06,21.5,1,2026-03,21.5,False,Medium,0.0,21.5
+50196,59,Headphones ,Electronics,mn,2026-06-26,79.99,3,2026-06,239.96999999999997,True,Large,0.15,203.97
+50123,16,Backpack,TRAVEL,IN,2026-06-28,39.99,1,2026-06,39.99,False,Medium,0.0,39.99
+50151,16,Pen Set,Office,IL,2026-06-26,7.49,3,2026-06,22.47,True,Medium,0.1,20.22
+50230,29,Backpack,Travel,IL,2026-06-29,39.99,1,2026-06,39.99,False,Medium,0.0,39.99
+50177,36,USB Hub,Electronics,IL,2026-03-02,21.5,5,2026-03,107.5,True,Large,0.15,91.38
+50237,49,Headphones,Electronics,Minnesota,2026-06-05,79.99,1,2026-06,79.99,False,Medium,0.0,79.99
+50243,58,USB Hub,Electronics,WI,2026-04-15,21.5,1,2026-04,21.5,False,Medium,0.0,21.5
+50204,49,Backpack,TRAVEL,IL,2026-03-12,39.99,5,2026-03,199.95000000000002,True,Large,0.15,169.96
+50002,19,Stapler,office,IL,2026-05-26,12.99,1,2026-05,12.99,False,Small,0.0,12.99
+50100,38,Notebook,Office,Illinois,2026-02-10,4.99,3,2026-02,14.97,True,Small,0.1,13.47
+50069,51,Notebook,Office,NOT PROVIDED,2026-06-14,4.99,3,2026-06,14.97,True,Small,0.1,13.47
+50022,24,Headphones,Electronics,WI,2026-05-06,79.99,4,2026-05,319.96,True,Large,0.15,271.97
+50226,47,Desk Lamp,home,IL ,2026-04-06,24.99,1,2026-04,24.99,False,Medium,0.0,24.99
+50222,10,Desk Lamp,Home,IL ,2026-03-19,24.99,3,2026-03,74.97,True,Medium,0.0,74.97
+50088,41,USB Hub,Electronics,IA,2026-02-12,21.5,3,2026-02,64.5,True,Medium,0.0,64.5
+50207,8,Headphones,Electronics,Illinois,2026-01-20,79.99,5,2026-01,399.95,True,Large,0.15,339.96
+50070,1,Notebook, Office,MN ,2026-04-07,4.99,1,2026-04,4.99,False,Small,0.0,4.99
+50176,16,USB Hub,unknown,WI,2026-05-08,21.5,1,2026-05,21.5,False,Medium,0.0,21.5
+50244,12,Stapler,Office,WI,2026-05-10,12.99,5,2026-05,64.95,True,Medium,0.1,58.46
+50068,43,Desk Lamp,Home,IA,2026-02-13,24.99,2,2026-02,49.98,True,Medium,0.0,49.98
+50039,25,Backpack,TRAVEL,il,2026-01-20,39.99,1,2026-01,39.99,False,Medium,0.0,39.99
+50142,8,Pen Set,Office,WI,2026-01-15,7.49,3,2026-01,22.47,True,Medium,0.1,20.22
+50218,33,Stapler,OFFICE,il,2026-03-13,12.99,1,2026-03,12.99,False,Small,0.0,12.99
+50199,20,Luggage Tag, Travel,MN,2026-02-01,6.25,1,2026-02,6.25,False,Small,0.0,6.25
+50115,10,USB Hub ,Electronics,IL,2026-05-03,21.5,1,2026-05,21.5,False,Medium,0.0,21.5
+50080,12,Notebook,Office,IL,2026-04-09,4.99,5,2026-04,24.950000000000003,True,Medium,0.1,22.46
+50181,58,Water Bottle,TRAVEL,WI,2026-05-26,12.5,1,2026-05,12.5,False,Small,0.0,12.5
+50077,15,Water Bottle,travel,IL,2026-05-21,12.5,3,2026-05,37.5,True,Medium,0.0,37.5
+50250,33,Monitor,ELECTRONICS,IN ,2026-02-15,189.99,4,2026-02,759.96,True,Large,0.15,645.97
+50061,5,Monitor,Electronics,IN,2026-05-25,189.99,1,2026-05,189.99,False,Large,0.15,161.49
+50121,60,Stapler,Office,WI,2026-01-25,12.99,2,2026-01,25.98,True,Medium,0.1,23.38
+50202,54,USB Hub,Electronics,mn,2026-05-31,21.5,2,2026-05,43.0,True,Medium,0.0,43.0
+50052,14,Backpack, Travel,IL,2026-06-17,39.99,5,2026-06,199.95000000000002,True,Large,0.15,169.96
+50032,6,Notebook,Office,NOT PROVIDED,2026-02-15,4.99,3,2026-02,14.97,True,Small,0.1,13.47
+50013,24,Notebook ,Office,IL ,2026-04-09,4.99,1,2026-04,4.99,False,Small,0.1,4.49
+50101,5,Headphones ,electronics,IL,2026-06-28,79.99,3,2026-06,239.96999999999997,True,Large,0.15,203.97
+50103,10,Water Bottle,Travel,MN,2026-05-02,12.5,1,2026-05,12.5,False,Small,0.0,12.5
+50089,58,Water Bottle,Travel,IL ,2026-05-06,12.5,5,2026-05,62.5,True,Medium,0.0,62.5
+50065,58,Backpack,Travel,IL,2026-05-03,39.99,3,2026-05,119.97,True,Large,0.15,101.97
+50078,10,Notebook,office,IL,2026-06-28,4.99,1,2026-06,4.99,False,Small,0.0,4.99
+50171,41,Headphones,electronics,Iowa,2026-01-21,79.99,5,2026-01,399.95,True,Large,0.15,339.96
+50257,22,Pen Set,Office,WI,2026-04-11,7.49,2,2026-04,14.98,True,Small,0.1,13.48
+50084,6,Headphones,electronics,MN,2026-01-26,79.99,2,2026-01,159.98,True,Large,0.15,135.98
+50170,20,Notebook,Office,wi,2026-01-13,4.99,1,2026-01,4.99,False,Small,0.1,4.49
+50058,31,Throw Blanket,Home,IN,2026-02-05,29.99,3,2026-02,89.97,True,Medium,0.0,89.97
+50228,21,Stapler,Office,IL,2026-06-22,12.99,1,2026-06,12.99,False,Small,0.1,11.69
+50180,24,Pen Set,Office,MN ,2026-02-18,7.49,4,2026-02,29.96,True,Medium,0.1,26.96
+50060,57,Headphones,Electronics,IL,2026-06-22,79.99,2,2026-06,159.98,True,Large,0.15,135.98
+50028,27,Desk Lamp,Home,IA,2026-05-13,24.99,1,2026-05,24.99,False,Medium,0.0,24.99
+50104,34,Backpack,travel,Unknown,2026-02-01,39.99,1,2026-02,39.99,False,Medium,0.0,39.99
+50079,28,Desk Lamp,Home,Illinois,2026-06-23,24.99,2,2026-06,49.98,True,Medium,0.0,49.98
+50197,5,Notebook,Office,IL,2026-02-28,4.99,5,2026-02,24.950000000000003,True,Medium,0.1,22.46
+50023,29,Notebook,Office,IL,2026-01-06,4.99,1,2026-01,4.99,False,Small,0.1,4.49
+50033,39,Office Chair,Office,MN,2026-03-08,149.99,2,2026-03,299.98,True,Large,0.15,254.98
+50159,7,Stapler,Office,IL,2026-01-11,12.99,2,2026-01,25.98,True,Medium,0.1,23.38
+50135,25,Backpack,travel,IL ,2026-04-18,39.99,1,2026-04,39.99,False,Medium,0.0,39.99
+50124,41,Backpack,Travel,IL,2026-02-28,39.99,1,2026-02,39.99,False,Medium,0.0,39.99
+50044,10,Headphones,Electronics,IL,2026-02-16,79.99,1,2026-02,79.99,False,Medium,0.0,79.99
+50072,26,Stapler, Office,MN,2026-04-03,12.99,1,2026-04,12.99,False,Small,0.0,12.99
+50018,46,Notebook,Office,IL,2026-05-27,4.99,3,2026-05,14.97,True,Small,0.1,13.47
+50051,57,Notebook,OFFICE,WI,2026-05-13,4.99,4,2026-05,19.96,True,Small,0.0,19.96
+50167,48,Notebook, Office,IL,2026-05-07,4.99,4,2026-05,19.96,True,Small,0.0,19.96
+50126,34,Wall Clock,Home,Wisconsin,2026-06-08,18.75,1,2026-06,18.75,False,Small,0.0,18.75
+50034,45,Office Chair,office,MN,2026-03-25,149.99,1,2026-03,149.99,False,Large,0.15,127.49
+50220,4,Notebook,Office,IL,2026-04-30,4.99,1,2026-04,4.99,False,Small,0.1,4.49
+50086,47,Backpack,Travel,IL,2026-05-24,39.99,2,2026-05,79.98,True,Medium,0.0,79.98
+50109,38,Throw Blanket,Home,IL,2026-02-25,29.99,1,2026-02,29.99,False,Medium,0.0,29.99
+50168,39,USB Hub,Electronics,IA,2026-06-23,21.5,2,2026-06,43.0,True,Medium,0.0,43.0
+50048,48,Wall Clock, Home,Illinois,2026-05-11,18.75,2,2026-05,37.5,True,Medium,0.0,37.5
+50169,5,USB Hub,Electronics,wi,2026-03-27,21.5,2,2026-03,43.0,True,Medium,0.0,43.0
+50160,31,Desk Lamp,Home,MN ,2026-05-11,24.99,1,2026-05,24.99,False,Medium,0.0,24.99
+50178,30,Throw Blanket, Home,Iowa,2026-06-20,29.99,2,2026-06,59.98,True,Medium,0.0,59.98
+50153,49,Backpack,Travel,il,2026-02-07,39.99,4,2026-02,159.96,True,Large,0.15,135.97
+50112,22,Water Bottle,Not Provided,WI,2026-03-11,12.5,1,2026-03,12.5,False,Small,0.0,12.5
+50179,45,Water Bottle,Travel,MN,2026-01-20,12.5,1,2026-01,12.5,False,Small,0.0,12.5
+50215,39,Stapler,Office,WI,2026-01-23,12.99,2,2026-01,25.98,True,Medium,0.1,23.38
+50055,13,Notebook,Office,MN,2026-03-01,4.99,2,2026-03,9.98,True,Small,0.1,8.98
+50219,37,Backpack,Travel,IN,2026-04-23,39.99,3,2026-04,119.97,True,Large,0.15,101.97
+50113,46,Stapler,Office,IL,2026-03-06,12.99,-1,2026-03,-12.99,False,,0.1,-11.69
+50054,14,Stapler,Office,MN,2026-06-24,12.99,3,2026-06,38.97,True,Medium,0.1,35.07
+50050,21,Notebook, Office,il,2026-02-14,4.99,2,2026-02,9.98,True,Small,0.0,9.98
+50011,51,Pen Set,Office,IA,2026-03-16,7.49,5,2026-03,37.45,True,Medium,0.1,33.71
+50223,7,Wall Clock ,Home,Illinois,2026-03-25,18.75,4,2026-03,75.0,True,Medium,0.0,75.0
+50240,2,Water Bottle , Travel,IL,2026-01-06,12.5,5,2026-01,62.5,True,Medium,0.0,62.5
+50205,51,Headphones, Electronics,IA,2026-05-20,79.99,1,2026-05,79.99,False,Medium,0.0,79.99
+50156,34,Desk Lamp,Unknown,IA,2026-06-26,24.99,1,2026-06,24.99,False,Medium,0.0,24.99
+50119,50,Notebook,Office,Iowa,2026-05-02,4.99,1,2026-05,4.99,False,Small,0.1,4.49
+50198,52,Pen Set,Office,IL,2026-01-16,7.49,3,2026-01,22.47,True,Medium,0.1,20.22
+50192,37,Notebook,Office,IN,2026-05-17,4.99,2,2026-05,9.98,True,Small,0.1,8.98
+50076,50,Throw Blanket,Home,WI,2026-06-09,29.99,-1,2026-06,-29.99,False,,0.0,-29.99
+50062,38,Headphones, Electronics,WI,2026-03-20,79.99,3,2026-03,239.96999999999997,True,Large,0.15,203.97
+50064,2,USB Hub,electronics,IA,2026-02-27,21.5,3,2026-02,64.5,True,Medium,0.0,64.5
+50165,50,Office Chair,office,IN ,2026-02-03,149.99,4,2026-02,599.96,True,Large,0.15,509.97
+50241,27,Stapler, Office,wi,2026-05-25,12.99,1,2026-05,12.99,False,Small,0.0,12.99
+50141,16,USB Hub ,electronics,wi,2026-01-17,21.5,3,2026-01,64.5,True,Medium,0.0,64.5
+50183,37,Backpack,Travel,Unknown,2026-04-04,39.99,2,2026-04,79.98,True,Medium,0.0,79.98
+50195,26,Luggage Tag,Travel,IN,2026-01-15,6.25,5,2026-01,31.25,True,Medium,0.0,31.25
+50129,40,Water Bottle,travel,IA,2026-06-29,12.5,4,2026-06,50.0,True,Medium,0.0,50.0
+50234,16,Throw Blanket,Home,Illinois,2026-05-24,29.99,4,2026-05,119.96,True,Large,0.15,101.97
+50216,39,Wall Clock,Home,IL,2026-05-12,18.75,2,2026-05,37.5,True,Medium,0.0,37.5
+50098,31,Notebook,Office,MN,2026-04-24,4.99,2,2026-04,9.98,True,Small,0.1,8.98
+50145,27,Backpack,Travel,IA,2026-03-10,39.99,1,2026-03,39.99,False,Medium,0.0,39.99
+50239,46,Backpack,travel,IL,2026-04-02,39.99,3,2026-04,119.97,True,Large,0.15,101.97
+50203,23,Notebook ,Office,il,2026-05-27,4.99,2,2026-05,9.98,True,Small,0.1,8.98
+50242,34,Wall Clock,home,in,2026-04-12,18.75,1,2026-04,18.75,False,Small,0.0,18.75
+50027,16,Desk Lamp,Home,IN,2026-02-03,24.99,5,2026-02,124.94999999999999,True,Large,0.15,106.21
+50254,32,Luggage Tag,Travel,IL,2026-01-29,6.25,1,2026-01,6.25,False,Small,0.0,6.25
+50074,26,Throw Blanket,HOME,MN,2026-02-14,29.99,1,2026-02,29.99,False,Medium,0.0,29.99
+50043,53,notebook,Travel,wi,2026-05-13,12.5,1,2026-05,12.5,False,Small,0.0,12.5
+50161,36,Notebook,Office,IL,2026-03-29,4.99,1,2026-03,4.99,False,Small,0.1,4.49
+50040,37,USB Hub,electronics,IL,2026-03-21,21.5,5,2026-03,107.5,True,Large,0.15,91.38
+50139,25,Notebook,OFFICE,in,2026-01-18,4.99,1,2026-01,4.99,False,Small,0.0,4.99
+50038,29,Luggage Tag,Travel,IA,2026-02-05,6.25,1,2026-02,6.25,False,Small,0.0,6.25
+50036,50,Backpack, Travel,IL,2026-05-15,39.99,2,2026-05,79.98,True,Medium,0.0,79.98
+50025,26,Water Bottle,Travel,IA,2026-03-13,12.5,2,2026-03,25.0,True,Medium,0.0,25.0
+50200,52,Backpack, Travel,IN,2026-01-12,39.99,4,2026-01,159.96,True,Large,0.15,135.97
+50114,3,Stapler ,Office,WI,2026-01-06,12.99,2,2026-01,25.98,True,Medium,0.1,23.38
+50066,12,Office Chair,Office,Minnesota,2026-04-15,149.99,2,2026-04,299.98,True,Large,0.15,254.98
+50137,42,Notebook,Office,IN ,2026-04-24,4.99,4,2026-04,19.96,True,Small,0.1,17.96
+50057,49,Stapler,Office,IN,2026-03-24,12.99,3,2026-03,38.97,True,Medium,0.1,35.07
+50082,45,Notebook,Office,mn,2026-01-19,4.99,3,2026-01,14.97,True,Small,0.1,13.47
+50047,57,Backpack,Travel,WI,2026-02-28,39.99,2,2026-02,79.98,True,Medium,0.0,79.98
+50232,58,Notebook,Office,WI,2026-01-11,4.99,1,2026-01,4.99,False,Small,0.1,4.49
+50130,28,Desk Lamp ,Home,Iowa,2026-04-17,24.99,1,2026-04,24.99,False,Medium,0.0,24.99
+50087,47,Backpack,Travel,WI,2026-04-24,39.99,5,2026-04,199.95000000000002,True,Large,0.15,169.96
+50105,32,Luggage Tag,Travel,wi,2026-04-03,6.25,1,2026-04,6.25,False,Small,0.0,6.25
+50175,10,Water Bottle,Travel,Minnesota,2026-04-04,12.5,-1,2026-04,-12.5,False,,0.0,-12.5
+50015,17,Headphones,Electronics,WI,2026-01-08,79.99,4,2026-01,319.96,True,Large,0.15,271.97
+50042,10,Water Bottle ,Travel,Illinois,2026-05-04,12.5,2,2026-05,25.0,True,Medium,0.0,25.0
+50231,60,Headphones,Electronics,IL,2026-02-20,79.99,2,2026-02,159.98,True,Large,0.15,135.98
+50212,13,Desk Lamp,Home,Iowa,2026-03-13,24.99,2,2026-03,49.98,True,Medium,0.0,49.98
+50185,3,Luggage Tag, Travel,Illinois,2026-02-15,6.25,1,2026-02,6.25,False,Small,0.0,6.25
+50252,14,Backpack,Travel,MN,2026-04-23,39.99,3,2026-04,119.97,True,Large,0.15,101.97
+50217,17,Headphones,Electronics,IL ,2026-04-24,79.99,4,2026-04,319.96,True,Large,0.15,271.97
+50211,54,Backpack ,Travel,mn,2026-04-26,39.99,3,2026-04,119.97,True,Large,0.15,101.97
+50138,47,Desk Lamp,Home,IN,2026-02-03,24.99,1,2026-02,24.99,False,Medium,0.0,24.99
+50005,31,Wall Clock,Home,WI,2026-01-28,18.75,2,2026-01,37.5,True,Medium,0.0,37.5

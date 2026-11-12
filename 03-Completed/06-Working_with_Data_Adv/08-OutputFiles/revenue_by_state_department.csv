@@ -1,0 +1,108 @@
+state,department,purchases,total_revenue,largest_purchase
+IA,Travel,6,363.67,199.95
+IA,Electronics,2,107.5,64.5
+IA, Electronics,1,79.99,79.99
+IA, Travel,1,79.98,79.98
+IA,Home,2,74.97,49.98
+IA,electronics,1,64.5,64.5
+IA,travel,1,50.0,50.0
+IA,Office,2,44.94,37.45
+IA,Unknown,2,37.49,24.99
+IA,office,1,4.99,4.99
+IL,Travel,12,801.07,199.95
+IL,Electronics,7,636.45,159.98
+IL,Home,7,426.12,149.95
+IL,electronics,2,347.47,239.97
+IL, Travel,3,342.43,199.95
+IL, Office,3,334.92,299.98
+IL,Office,19,288.58,29.96
+IL,TRAVEL,2,237.45,199.95
+IL,travel,2,157.47,119.97
+IL,office,4,52.92,19.96
+IL,OFFICE,1,4.99,4.99
+IL ,Electronics,1,319.96,319.96
+IL ,Home,2,93.72,74.97
+IL ,Travel,1,62.5,62.5
+IL ,Office,3,51.45,38.97
+IL ,travel,1,39.99,39.99
+IL ,home,1,24.99,24.99
+IN,Home,5,414.85,149.95
+IN,Electronics,2,297.49,189.99
+IN,Office,5,229.91,149.99
+IN, Travel,1,159.96,159.96
+IN,Travel,2,151.22,119.97
+IN,TRAVEL,1,39.99,39.99
+IN,office,1,7.49,7.49
+IN ,ELECTRONICS,1,759.96,759.96
+IN ,office,1,599.96,599.96
+IN ,Travel,1,39.99,39.99
+IN ,Office,1,19.96,19.96
+IN , Travel,1,12.5,12.5
+Illinois,Electronics,2,507.45,399.95
+Illinois,Home,4,263.69,119.96
+Illinois,Travel,3,169.97,119.97
+Illinois, Home,1,37.5,37.5
+Illinois,Office,1,14.97,14.97
+Illinois, Travel,1,6.25,6.25
+Indiana,Travel,1,39.99,39.99
+Indiana,office,1,-1.0,-1.0
+Iowa,electronics,1,399.95,399.95
+Iowa,Home,2,74.97,49.98
+Iowa, Home,1,59.98,59.98
+Iowa,Office,1,4.99,4.99
+MN,Office,10,761.79,299.98
+MN,Electronics,2,341.46,319.96
+MN,office,2,174.94,149.99
+MN,electronics,1,159.98,159.98
+MN,Travel,4,157.47,119.97
+MN,Home,2,127.47,89.97
+MN, Travel,2,56.25,50.0
+MN,HOME,1,29.99,29.99
+MN, Office,1,12.99,12.99
+MN ,Office,2,39.94,29.96
+MN ,Home,1,24.99,24.99
+MN , Office,1,4.99,4.99
+Minnesota,Office,1,299.98,299.98
+Minnesota,Electronics,1,79.99,79.99
+Minnesota,home,1,29.99,29.99
+Minnesota,Travel,2,0.0,12.5
+NOT PROVIDED,Home,1,74.97,74.97
+NOT PROVIDED,Office,4,52.41,14.98
+NOT PROVIDED,Travel,1,6.25,6.25
+Unknown,Travel,1,79.98,79.98
+Unknown,home,1,49.98,49.98
+Unknown,travel,1,39.99,39.99
+WI,Office,12,2870.23,2499.98
+WI,Electronics,5,1741.34,759.96
+WI,Unknown,1,599.96,599.96
+WI,ELECTRONICS,2,401.48,379.98
+WI,Travel,4,357.42,199.95
+WI, Electronics,1,239.97,239.97
+WI,Home,6,167.45,59.98
+WI,HOME,1,149.95,149.95
+WI,unknown,1,21.5,21.5
+WI, Office,2,19.96,14.97
+WI,OFFICE,1,19.96,19.96
+WI,Not Provided,1,12.5,12.5
+WI,TRAVEL,1,12.5,12.5
+WI,travel,1,12.5,12.5
+WI,office,1,7.49,7.49
+Wisconsin,Electronics,2,479.94,319.96
+Wisconsin,Home,1,18.75,18.75
+Wisconsin,Travel,1,12.5,12.5
+Wisconsin,Office,1,4.99,4.99
+il,Travel,2,184.96,159.96
+il,TRAVEL,2,64.99,39.99
+il, Office,3,27.96,12.99
+il,Office,2,17.47,9.98
+il,OFFICE,1,12.99,12.99
+in,home,1,18.75,18.75
+in,OFFICE,1,4.99,4.99
+mn,Electronics,2,282.97,239.97
+mn,Travel,1,119.97,119.97
+mn,Office,1,14.97,14.97
+wi,Travel,4,184.96,159.96
+wi,electronics,1,64.5,64.5
+wi,Electronics,1,43.0,43.0
+wi, Office,1,12.99,12.99
+wi,Office,1,4.99,4.99
