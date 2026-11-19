@@ -1,0 +1,9 @@
+column,meaning,kind,scale,dtype,missing,distinct
+PassengerId,Row ID,identifier,nominal,int64,0,891
+Survived,1 = survived,qualitative,nominal,int64,0,2
+Pclass,Ticket class,qualitative,ordinal,int64,0,3
+Sex,Sex,qualitative,nominal,str,0,2
+Age,Age in years,quantitative,ratio,float64,177,88
+SibSp,Siblings/spouses aboard,quantitative,ratio,int64,0,7
+Fare,Ticket price (pounds),quantitative,ratio,float64,0,248
+Embarked,Port of embarkation,qualitative,nominal,str,2,3

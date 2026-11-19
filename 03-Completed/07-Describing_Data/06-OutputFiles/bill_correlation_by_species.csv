@@ -1,0 +1,5 @@
+species,n,r_bill_length_depth
+Adelie,151,0.391
+Chinstrap,68,0.654
+Gentoo,123,0.643
+ALL (combined),342,-0.235

@@ -1,0 +1,8 @@
+column,meaning,kind,scale,dtype,missing,distinct
+species,Penguin species,qualitative,nominal,category,0,3
+island,Island where measured,qualitative,nominal,category,0,3
+bill_length_mm,Bill (beak) length,quantitative,ratio,float64,0,164
+bill_depth_mm,Bill (beak) depth,quantitative,ratio,float64,0,80
+flipper_length_mm,Flipper length,quantitative,ratio,float64,0,55
+body_mass_g,Body mass,quantitative,ratio,float64,0,94
+sex,Sex,qualitative,nominal,category,9,2

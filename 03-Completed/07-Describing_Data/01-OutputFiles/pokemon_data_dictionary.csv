@@ -1,0 +1,14 @@
+column,meaning,kind,scale,dtype,missing,distinct
+#,Pokedex number,identifier,nominal,int64,0,721
+Name,Pokemon name,identifier,nominal,str,0,800
+Type 1,Primary type,qualitative,nominal,str,0,18
+Type 2,Secondary type (if any),qualitative,nominal,str,386,18
+Total,Sum of the six base stats,quantitative,ratio,int64,0,200
+HP,Hit points,quantitative,ratio,int64,0,94
+Attack,Attack stat,quantitative,ratio,int64,0,111
+Defense,Defense stat,quantitative,ratio,int64,0,103
+Sp. Atk,Special attack stat,quantitative,ratio,int64,0,105
+Sp. Def,Special defense stat,quantitative,ratio,int64,0,92
+Speed,Speed stat,quantitative,ratio,int64,0,108
+Generation,Game generation introduced,qualitative,ordinal,int64,0,6
+Legendary,True = legendary,qualitative,nominal,bool,0,2
